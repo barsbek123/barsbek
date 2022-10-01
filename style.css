@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+img{
+    width: 320px;
+    height: 320px;
+}
+
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+.pic{
+    float: left;
+    justify-content: flex;
+    margin-right: 10px;
+}
