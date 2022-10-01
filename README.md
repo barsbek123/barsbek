@@ -1,7 +1,7 @@
 # barsbek
 <html>
     <title></title>
-    <link>
+    <link href="style" rel="stylesheet">
     <head></head>
     <body>
         <h1>Меня зовут Барсбек</h1>
